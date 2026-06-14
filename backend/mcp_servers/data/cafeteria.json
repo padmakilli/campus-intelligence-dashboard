@@ -1,0 +1,11 @@
+{
+  "menu": {
+    "Monday":    {"breakfast": "Idli, Sambar, Chutney", "lunch": "Rajma, Rice, Roti, Salad", "dinner": "Paneer Butter Masala, Naan"},
+    "Tuesday":   {"breakfast": "Poha, Tea", "lunch": "Chole, Rice, Roti", "dinner": "Veg Biryani, Raita"},
+    "Wednesday": {"breakfast": "Aloo Paratha, Curd", "lunch": "Dal Tadka, Rice, Roti", "dinner": "Chicken Curry, Rice"},
+    "Thursday":  {"breakfast": "Upma, Coconut Chutney", "lunch": "Kadhi, Rice, Roti", "dinner": "Mix Veg, Roti"},
+    "Friday":    {"breakfast": "Dosa, Sambar", "lunch": "Sambar, Rice, Papad", "dinner": "Pav Bhaji"},
+    "Saturday":  {"breakfast": "Bread, Omelette/Jam", "lunch": "Veg Pulao, Raita", "dinner": "Noodles, Manchurian"},
+    "Sunday":    {"breakfast": "Puri, Bhaji", "lunch": "Special Thali", "dinner": "Pizza Night"}
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "books": [
+    {"title": "Introduction to Algorithms", "author": "Cormen", "copies": 4, "available": 2, "location": "CS Section, Rack 12"},
+    {"title": "Clean Code", "author": "Robert Martin", "copies": 3, "available": 0, "location": "CS Section, Rack 7"},
+    {"title": "Operating System Concepts", "author": "Silberschatz", "copies": 5, "available": 3, "location": "CS Section, Rack 9"},
+    {"title": "The Pragmatic Programmer", "author": "Hunt & Thomas", "copies": 2, "available": 1, "location": "CS Section, Rack 7"},
+    {"title": "Linear Algebra Done Right", "author": "Axler", "copies": 3, "available": 3, "location": "Math Section, Rack 2"},
+    {"title": "Sapiens", "author": "Yuval Noah Harari", "copies": 6, "available": 4, "location": "General, Rack 21"}
+  ]
+}

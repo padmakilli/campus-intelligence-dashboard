@@ -1,0 +1,14 @@
+{
+  "sections": [
+    {"section": "Attendance Policy", "text": "A minimum of 75% attendance is required in every course to be eligible to sit for the end-semester examination. Medical exemptions require documentation submitted within 7 days."},
+    {"section": "Grading System", "text": "Courses are graded on a 10-point scale. The minimum passing grade is D (4 points). SGPA and CGPA are computed as credit-weighted averages."},
+    {"section": "Registration", "text": "Course registration opens two weeks before each semester. Late registration incurs a fine of Rs 500 per day up to a maximum of one week."},
+    {"section": "Examination Deadlines", "text": "Mid-semester exams are held in week 8. End-semester exams begin two weeks after the last instruction day. Re-evaluation requests close 10 days after results."},
+    {"section": "Library Rules", "text": "Books may be borrowed for 14 days and renewed twice if no holds exist. Overdue fines are Rs 5 per day per book."}
+  ],
+  "deadlines": [
+    {"item": "Course registration closes", "date": "2026-06-19"},
+    {"item": "Fee payment last date", "date": "2026-06-24"},
+    {"item": "Mid-semester exams begin", "date": "2026-07-28"}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "events": [
+    {"title": "Hackathon 2026 Kickoff", "club": "Coding Club", "date": "2026-06-16", "time": "10:00", "venue": "Auditorium A"},
+    {"title": "Intro to Robotics Workshop", "club": "Robotics Society", "date": "2026-06-16", "time": "15:00", "venue": "Lab 3"},
+    {"title": "Acoustic Music Night", "club": "Music Club", "date": "2026-06-18", "time": "19:00", "venue": "Open Air Theatre"},
+    {"title": "Resume Building Session", "club": "Placement Cell", "date": "2026-06-20", "time": "11:00", "venue": "Seminar Hall 2"},
+    {"title": "Inter-College Debate", "club": "Literary Society", "date": "2026-06-22", "time": "14:00", "venue": "Seminar Hall 1"},
+    {"title": "AI/ML Tech Talk", "club": "Coding Club", "date": "2026-06-25", "time": "17:00", "venue": "Auditorium A"}
+  ]
+}
